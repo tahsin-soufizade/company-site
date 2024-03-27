@@ -1,0 +1,17 @@
+p {
+  margin-bottom: 0;
+}
+
+ul {
+  margin-bottom: 0;
+  padding-right: 0;
+}
+
+body {
+  font-family: iranSans;
+}
+
+@font-face {
+  font-family: iranSans;
+  src: url("../assets/IranSans.ttf");
+}
